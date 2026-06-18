@@ -32,3 +32,4 @@ python main.py
 ## Learning Purpose
 
 This project was built to practice Python fundamentals and improve logic-building skills.
+This project was built to practice Python fundamentals and improve logic-building skills.
